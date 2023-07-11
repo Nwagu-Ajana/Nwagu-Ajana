@@ -1,6 +1,6 @@
 name: Ifeanyi Nwagu-Ajana
 shortname: ajanadev
-occupation: Opdev Engineer/Web developer
+occupation: DevOpt Engineer/Web developer
 company: https://Premmiumcapital.com.ng
 email: nwaguajanai@gmail.com
 twitter: https://twitter.com/#
