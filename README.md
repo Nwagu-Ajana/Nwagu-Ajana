@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @Nwagu-Ajana
-- 👀 I’m interested in 
+name: Ifeanyi Nwagu-Ajana
+shortname: ajanadev
+occupation: Opdev Engineer/Web developer
+company: Premmiumcapital.com.ng
+email: nwaguajanai@gmail.com
+twitter: https://twitter.com/#
+linkedin: https://www.linkedin.com/in/nwagu-ajana
+github: https://github.com/nwagu-ajana
+A Opdev engineer/Web Developer who values learning and growing with people, teams, and technologies.
 - 🌱 I’m currently learning PYTHON JAVA PHP
-- 💞️ I’m looking to collaborate on any wed development project
-- 📫 How to reach me email: mailto:nwaguajanai@gmail.com
+- 💞️ I’m looking to collaborate on any web development project
 
 <!---
 Nwagu-Ajana/Nwagu-Ajana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
